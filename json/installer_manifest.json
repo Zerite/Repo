@@ -1,0 +1,13 @@
+{
+    "meta": {
+        "1.8.9": "1"
+    },
+    "versions": {
+        "1": {
+            "version": "B1",
+            "downloads": {
+                "1.8.9": "https://github.com/Zerite/Zerite/releases/download/Beta-B10/Zerite.jar"
+            }
+        }
+    }
+}
