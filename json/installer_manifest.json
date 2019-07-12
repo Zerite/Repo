@@ -2,7 +2,7 @@
     "meta": {
         "1.8.9": {
             "client": "1",
-            "optifine": "https://github.com/HydonClient/Repo/raw/master/resources/installer/OptiFine_1.8.9_HD_U_I7.jar"
+            "optifine": "https://github.com/Zerite/Repo/raw/master/lib/optifine/1.8.9.jar"
         }
     },
     "versions": {
